@@ -51,7 +51,7 @@ This project focuses on scraping and analyzing data related to Mars news and wea
 # Conclusion
 
 ## Analysis: Minimum Temperature on Mars
-![Temperature](Images/download.jpg)
+![Temperature](Images/temp.jpg)
 
 The analysis of the **minimum temperature** by month on Mars shows interesting seasonal variations. Mars experiences significant temperature fluctuations based on the time of year, driven by its orbit and axial tilt.
 
