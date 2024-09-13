@@ -52,6 +52,7 @@ This project focuses on scraping and analyzing data related to Mars news and wea
 
 ## Analysis: Minimum Temperature on Mars
 ![Temperature](Images/download.jpg)
+
 The analysis of the **minimum temperature** by month on Mars shows interesting seasonal variations. Mars experiences significant temperature fluctuations based on the time of year, driven by its orbit and axial tilt.
 
 From the data and the plot:
@@ -62,6 +63,7 @@ From the data and the plot:
 
 ## Atmospheric Pressure on Mars: Analysis
 ![Pressure](Images/Comparing_the_atmospheres_of_Mars_and_Earth_pillars.jpg)
+
 The analysis of the average atmospheric pressure by month at Curiosity’s location on Mars reveals significant monthly variations. Atmospheric pressure is a crucial factor for both scientific research and future missions, as it impacts various aspects such as weather patterns, dust storms, and the operation of equipment.
 
 From the sorted data and plot:
@@ -73,6 +75,7 @@ From the sorted data and plot:
 
 ## Year Length on Mars: Analysis
 ![DayNight](Images/Night-day-mars.jpg)
+
 To estimate the length of a Martian year (the time it takes for Mars to orbit the Sun), we can analyze the daily minimum temperature over time. Mars has a longer orbital period compared to Earth, so a Martian year is significantly longer than an Earth year.
 
 From the plot and data analysis, here are the key insights:
